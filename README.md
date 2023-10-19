@@ -1,4 +1,4 @@
-# Image-Recognition-
+# Image-Recognition-API-in-Go-using-TensorFlow
 
 Rangkuman project image recognition:
 
